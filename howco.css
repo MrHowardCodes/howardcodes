@@ -1,0 +1,18 @@
+html *
+{
+   font-size: 1em !important;
+   color: rgb(69, 69, 69) !important;
+   font-family: 'Ubuntu', sans-serif;
+}
+
+div {
+    height: 800px;
+    position: relative;
+  }
+  
+  img {
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
